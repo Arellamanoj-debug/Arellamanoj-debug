@@ -14,10 +14,10 @@
 
 ### 💼 Professional Experience
 
-- 🏦 **Vulnerability Management Specialist** at BNP Paribas
-- 🛡️ Led comprehensive vulnerability scanning and remediation programs
-- 📊 Conducted risk assessments and security audits for enterprise systems
-- 🔍 Performed penetration testing and threat modeling
+- **Vulnerability Management Specialist** at BNP Paribas
+- Led comprehensive vulnerability scanning and remediation programs
+- Conducted risk assessments and security audits for enterprise systems
+- Performed penetration testing and threat modeling
 
 ### 🛠️ Core Skills
 
@@ -40,9 +40,9 @@ SIEM | Security Auditing | Compliance Management
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-b6a804173)
-- 📧 [Email](mailto:Arellamanojkumar1997@gmail.com)
-- 🌐 Actively seeking cybersecurity roles in Vulnerability Management & VAPT
+- [LinkedIn](https://www.linkedin.com/in/manoj-kumar-b6a804173)
+- [Email](mailto:Arellamanojkumar1997@gmail.com)
+- Actively seeking cybersecurity roles in Vulnerability Management & VAPT
 
 ### 🔍 Currently Looking For
 
