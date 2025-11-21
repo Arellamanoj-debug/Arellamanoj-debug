@@ -2,7 +2,7 @@
 
 ## 🔐 Cybersecurity Professional | Vulnerability Management | VAPT Engineer
 
-🎯 **5+ years of hands-on experience** in securing digital landscapes through vulnerability assessment, penetration testing, and risk mitigation strategies.
+🎯 **2+ years of hands-on experience** in securing digital landscapes through vulnerability assessment, penetration testing, and risk mitigation strategies.
 
 ### 🚀 What I Do
 
